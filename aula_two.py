@@ -98,3 +98,14 @@ if num < 0:
         print(f"{num} é impar e negativo")
 else:
     print("Digitou 0")
+
+
+import random
+forma = random.choice(['SSJB', 'SSJ4', 'Mambo'])
+if forma == 'SSJB':
+    print('Dragon ball Super')
+elif forma == 'SSJ4':
+    print('Dragon ball GT')
+else:
+    print('Isso não é uma forma do gogeta...')
+print('Absolute Cinema')
