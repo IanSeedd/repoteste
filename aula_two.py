@@ -3,6 +3,13 @@ num = int(input("Digite um número: "))
 num2 = int(input("Digite mais um número: "))
 num3 = int(input("Digite mais um número: "))
 # Se o número 1 for maior
+print('datebayo')
+print('teste')
+print('ola')
+a= 2
+b=6
+print(a+b)
+
 if num > num2 and num > num3:
     print(num)
     if num2 > num3:
